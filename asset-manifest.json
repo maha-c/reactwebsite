@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/reactwebsite/static/js/main.5c678467.js",
+    "static/media/bg.png": "/reactwebsite/static/media/bg.1a25b1dd424a1c17fb49.png",
+    "index.html": "/reactwebsite/index.html",
+    "main.5c678467.js.map": "/reactwebsite/static/js/main.5c678467.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c678467.js"
+  ]
+}
